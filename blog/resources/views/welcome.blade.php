@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Hola Bitches!!!!
                 </div>
+                <div class="mt-4">
+                  Hayyyyy!
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
