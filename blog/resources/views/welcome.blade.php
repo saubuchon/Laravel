@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hola Bitches!!!!
+                    Hola Bitches!!!
                 </div>
                 <div class="mt-4">
                   Hayyyyy!
