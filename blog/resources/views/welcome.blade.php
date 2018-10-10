@@ -86,6 +86,9 @@
                 <div class="mt-4">
                   Hayyyyy!
                 </div>
+                <h2 class="mt-4">
+                  Hayyyyy! Focker!
+                </h2>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
